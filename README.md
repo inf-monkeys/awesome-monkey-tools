@@ -14,6 +14,7 @@
 - [ComfyUI](#comfyui)
 - [Midjourney](#midjourney)
 - [Social Media](#social-media)
+- [Boi](#bio)
 - [Templates](#templates)
 
 ---
@@ -51,6 +52,10 @@
 ## Social Media
 
 - [monkey-tools-social-media](https://github.com/inf-monkeys/monkey-tools-social-media): Tool to publish posts to Instagram/Xiaohongshu etc.
+
+## Bio
+
+- [monkey-tools-BepiPred3.0-Predictor](https://github.com/inf-monkeys/monkey-tools-BepiPred3.0-Predictor): A monkey tool wrapper of [https://github.com/UberClifford/BepiPred3.0-Predictor].
 
 ## Templates
 
