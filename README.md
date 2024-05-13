@@ -14,7 +14,7 @@
 - [ComfyUI](#comfyui)
 - [Midjourney](#midjourney)
 - [Social Media](#social-media)
-- [Boi](#bio)
+- [Bio](#bio)
 - [Templates](#templates)
 
 ---
